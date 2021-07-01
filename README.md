@@ -1,4 +1,5 @@
 ### Hi there, I'm Daniel! 👋
+![Alt Text](https://64.media.tumblr.com/9dc2367d299b3c449c514131e5cbc5c3/tumblr_oxu83rgkXd1qciqqno8_640.gifv)
 
 [![Website](https://img.shields.io/website?label=DannieGil_Web&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://DannieGil.web.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DanniieGil?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=DanniieGil)
@@ -66,9 +67,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
 </details>
 
 [website]: https://DannieGil.web.app
@@ -77,7 +76,7 @@
 [youtube]: https://youtube.com/DannieGil
 [instagram]: https://www.instagram.com/danniegil/?hl=es-la
 [linkedin]: https://www.linkedin.com/in/danniegil/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0#
+[webdevplaylist]: https://DannieGil.web.app
+[jsplaylist]: https://DannieGil.web.app
+[cssplaylist]: https://DannieGil.web.app
+[reactplaylist]:https://DannieGil.web.app
