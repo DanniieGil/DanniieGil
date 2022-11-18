@@ -6,8 +6,6 @@
 ## I'm a Full Stack Developer | Front-End Engineer | Mining Engineer!!
 
 - 🔭 Eternal Apprentice
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other dev ops
 
 ### Connect with me:
 [<img align="left" alt="DanniieGil.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -43,11 +41,6 @@
 - [Ailema Food: Book Recipes](https://github.com/dannieowk/Ailema-Food)
 - [Card_Ui_Design](https://github.com/dannieowk/card_ui_design)
 - [UI Interace](https://github.com/dannieowk/UI-interface)
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-</details>
 
 [website]: https://DannieGil.web.app
 [course]: http://vsCodeHero.com
