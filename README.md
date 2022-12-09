@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=DannieGil_Web&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/danniegil)
 
-## I'm a Full Stack Developer | Front-End Engineer | Mining Engineer!!
+## I'm a Full Stack Developer | Front-End Engineer | Mining Engineer
 
 - 🔭 Eternal Apprentice
 
