@@ -35,4 +35,10 @@
 ---
 
 [website]: https://DannieGil.web.app
+[course]: http://vsCodeHero.com
+[instagram]: https://www.instagram.com/danniegil/?hl=es-la
 [linkedin]: https://www.linkedin.com/in/danniegil/
+[webdevplaylist]: https://DannieGil.web.app
+[jsplaylist]: https://DannieGil.web.app
+[cssplaylist]: https://DannieGil.web.app
+[reactplaylist]:https://DannieGil.web.app
