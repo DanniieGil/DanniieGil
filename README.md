@@ -34,19 +34,5 @@
 
 ---
 
-### 📕My Projects
-
-<!-- BLOG-POST-LIST:START -->
-- [HenryStore | eCommerce](https://github.com/MaxiSanchez600/Henry-Store-PF)
-- [Ailema Food: Book Recipes](https://github.com/dannieowk/Ailema-Food)
-- [Card_Ui_Design](https://github.com/dannieowk/card_ui_design)
-- [UI Interace](https://github.com/dannieowk/UI-interface)
-
 [website]: https://DannieGil.web.app
-[course]: http://vsCodeHero.com
-[instagram]: https://www.instagram.com/danniegil/?hl=es-la
 [linkedin]: https://www.linkedin.com/in/danniegil/
-[webdevplaylist]: https://DannieGil.web.app
-[jsplaylist]: https://DannieGil.web.app
-[cssplaylist]: https://DannieGil.web.app
-[reactplaylist]:https://DannieGil.web.app
